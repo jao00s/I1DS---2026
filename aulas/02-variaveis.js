@@ -42,4 +42,3 @@ var nome = "Paulo";
 var rico = false;
 var eProfessor = true;
 console.log("Nome:", nome, "| É professor?", eProfessor, "| É rico?", rico);
- 

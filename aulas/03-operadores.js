@@ -26,3 +26,27 @@ console.log("A divisão de x / y é", divisao); //mostrei o valor da soma
 
 //somando direto no console.log
 console.log("Somando números de 1 a 5 =", 1 + 2 + 3 + 4 + 5);
+
+//Operações Aritméticas
+let v1 = 12.5;
+let v2 = 4.7;
+console.log("----------------------------")
+console.log("Valores: v1 =", v1, " | v2 =", v2);
+console.log("----------------------------");
+
+console.log("soma : v1 + v2 =", v1 + v2);
+console.log("Subtração: v1 - v2 =", v1 - v2);
+console.log("multiplicação: v1 * v2 =", v1 * v2);
+console.log("divisão: v1 / v2 =", v1 / v2);
+
+//alterando o valor da variavel inicial
+v1 = 10;
+v2 = 3; 
+console.log("----------------------------")
+console.log("Valores: v1 =", v1, " | v2 =", v2);
+console.log("----------------------------");
+
+console.log("soma : v1 + v2 =", v1 + v2);
+console.log("Subtração: v1 - v2 =", v1 - v2);
+console.log("multiplicação: v1 * v2 =", v1 * v2);
+console.log("divisão: v1 / v2 =", v1 / v2);
