@@ -15,7 +15,7 @@ console.log(obterIdade(2010));
 console.log(obterIdade(1985));
 
 function quantidadeCombustivel(combustivel) {
-  return `com ${combustivel}L de combustivel, o carro pode percorrer ${combustivel * 12}km`;
+  return `com ${combustivel}L de combustivel, o carro pode percorrer ${combustivel * 15}km`;
 }
 
 console.log(quantidadeCombustivel(67));
