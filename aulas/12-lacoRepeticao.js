@@ -27,7 +27,9 @@ for (let i = 1; i <= 20; i++) {
   if (i % 2 == 0) console.log(i); // % = resto da divisão
   // i % 2 == 0 => se o resto da divisão de i por 2 for 0, ele mostra i
 }
-console.log("------------------------------------------------------------------",);
+console.log(
+  "------------------------------------------------------------------",
+);
 // Dado um vetor[array], calcule e exiba o somatório de seus elementos
 var numeros = [5, 6, 8, 14, 0, 6, 9, 7, 2];
 let soma = 0;
