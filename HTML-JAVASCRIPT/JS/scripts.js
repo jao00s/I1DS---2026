@@ -38,3 +38,4 @@ const somar = () => {
   // Devolveu o resultado para o formulario
   document.getElementById("resultado").innerHTML = result;
 };
+
